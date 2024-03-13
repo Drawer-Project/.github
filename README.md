@@ -10,10 +10,6 @@
 
 ## 링크
 
-### 배포주소
-
-- Web : 
-
 ### 프로젝트 저장소
 
 - Drawer-Client : https://github.com/Drawer-Project/drawer-client
@@ -22,13 +18,11 @@
 ### 문서 
 
 - Api-Spec : https://docs.google.com/spreadsheets/d/1907sB0XZEPogwbIbYd10ziAG2_7jMj6iBDJkEIAr-TY/edit?usp=sharing
-- Backlog : https://docs.google.com/spreadsheets/d/1ht47a4L00-5MBK99CcZRULLy3D5IORnRrR3JMQOt3HE/edit?usp=sharing
 
 ## 주요 기술 스택
 
 - Front-End : React, Typescript, Tanstack-Query, React-Hook-Form, Tailwind, Zod,
-- Back-End : Java, SpringBoot, Hibernate, SpringDataJpa, QueryDsl, SpringSecurity, H2, MySql, Junit
-- Infra : Aws
+- Back-End : Java, SpringBoot, Hibernate, SpringDataJpa, QueryDsl, SpringSecurity, H2
 
 ## DB 설계
 
@@ -39,12 +33,12 @@
 ### 유저
 
 - [x] 회원가입
-- [ ] 회원탈퇴
+- [x] 회원탈퇴
 - [x] 로그인
 - [x] 로그아웃
-- [ ] 회원 정보 수정
+- [x] 회원 정보 수정
   - [ ] 이메일
-  - [ ] 프로필 사진
+  - [x] 프로필 사진
   - [ ] 비밀번호
 
 ### 북마크
