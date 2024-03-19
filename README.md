@@ -27,6 +27,7 @@
 
 - Front-End : React, Typescript, Tanstack-Query, React-Hook-Form, Tailwind, Zod,
 - Back-End : Java, SpringBoot, Hibernate, SpringDataJpa, QueryDsl, SpringSecurity, H2
+- Infra : Aws S3/Ec2/Rds, Nginx
 
 ## DB 설계
 
