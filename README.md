@@ -14,7 +14,7 @@
 
 ###
 
-- 배포 주소 : 1. http://drawertools.com 2. http://52.79.120.226
+- 배포 주소 : http://drawertools.com
 
 ### 프로젝트 저장소
 
