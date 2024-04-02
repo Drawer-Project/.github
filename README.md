@@ -29,7 +29,7 @@
 ## 주요 기술 스택
 
 - Front-End : React, Typescript, Tanstack-Query, React-Hook-Form, Tailwind, Zod,
-- Back-End : Java, SpringBoot, Hibernate, SpringDataJpa, QueryDsl, SpringSecurity, H2
+- Back-End : Java, SpringBoot, Hibernate, SpringDataJpa, QueryDsl, SpringSecurity, MySql
 - Infra : Aws S3/Ec2/Rds, Nginx
 
 ## DB 설계
