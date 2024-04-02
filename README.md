@@ -1,8 +1,9 @@
 # Drawer 
 
-![drawertools com_dashboard_bookmark (2)](https://github.com/Drawer-Project/.github/assets/64501757/8cb5745b-aa91-4b39-aee3-de1b3d694dd2)
+![drawertools com_dashboard_bookmark (3)](https://github.com/Drawer-Project/.github/assets/64501757/ac3d6258-74a2-43ad-bcb2-77377ab22689)
 
 ## 소개
+
 
 북마크를 저장 및 관리할 수 있는 간단한 서비스입니다. 본 프로젝트는 현재 개발 단계이며 지속적으로 개선해 나아갈 예정입니다.
 
