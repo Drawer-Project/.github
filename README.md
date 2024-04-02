@@ -36,6 +36,10 @@
 
 ![image](https://github.com/Drawer-Project/.github/assets/64501757/6374c569-77a4-4026-9221-93743afed4d7)
 
+## 클라우드 아키텍처
+
+![image](https://github.com/Drawer-Project/.github/assets/64501757/1a304636-8876-481f-8060-5ca10e00a2b0)
+
 ## 주요 기능
 
 ### 유저
